@@ -12,4 +12,4 @@ dependencies = [
 ]
 
 [tool.setuptools.packages]
-find = {"where": ["abstract_algebra]}
+find = {"where": ["abstract_algebra"]}
