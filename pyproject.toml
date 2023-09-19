@@ -11,5 +11,5 @@ dependencies = [
     "sphinx-rtd-theme",
 ]
 
-[tool.setuptools.packages]
-find = {"where": ["abstract_algebra"]}
+[tool.setuptools.packages.find]
+where = ["src"]
