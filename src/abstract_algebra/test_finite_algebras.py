@@ -5,7 +5,7 @@
 
 from unittest import TestCase
 
-from finite_algebras import *
+from abstract_algebra.finite_algebras import *
 
 
 class TestMagma(TestCase):

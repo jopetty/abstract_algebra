@@ -19,7 +19,7 @@ import os
 import pprint as pp
 import math
 
-from cayley_table import CayleyTable
+from abstract_algebra.cayley_table import CayleyTable
 from permutations import Perm
 
 
