@@ -3,7 +3,7 @@ name = "abstract_algebra"
 authors = [
     {name = "Alfred J. Reich", email = "al.reich@gmail.com"},
 ]
-description = "A Python implementation of Finite Algebras: Magma, Semigroup, Monoid, Group, Ring, and Field
+description = "A Python implementation of Finite Algebras: Magma, Semigroup, Monoid, Group, Ring, and Field"
 license = {text = "MIT"}
 version = "0.0.1"
 dependencies = [
