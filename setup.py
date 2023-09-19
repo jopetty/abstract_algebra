@@ -2,8 +2,8 @@ from setuptools import setup
 
 setup(
     name='abstract_algebra',
-    version='0.0.1',
-    packages=['src'],
+    version='0.0.2',
+    py_modules=['src'],
     url='https://abstract-algebra.readthedocs.io/en/latest/index.html',
     license='MIT',
     author='Alfred J. Reich',
