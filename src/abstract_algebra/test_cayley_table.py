@@ -4,7 +4,7 @@
 """
 
 from unittest import TestCase
-from abstract_algebra.cayley_table import CayleyTable
+from .cayley_table import CayleyTable
 
 
 class TestCayleyTable(TestCase):

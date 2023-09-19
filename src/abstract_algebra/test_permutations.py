@@ -4,7 +4,7 @@
 """
 
 from unittest import TestCase
-from permutations import Perm
+from .permutations import Perm
 
 
 class TestPermutations(TestCase):
